@@ -29,7 +29,7 @@ Response:
 
 
 ## Alternatives
-*Describe at least one other way of retrieving the same information:
+*Describe at least one other way of retrieving the same information:*
 The other ways to convert coordinates along assambles is to use low level - directly EnsEMBL Perl API, or higher level using another browser converting tools.
 
 - Using EnsEmbl Perl API directly would have advantages as follows: 
