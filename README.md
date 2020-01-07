@@ -3,7 +3,6 @@ Using the latest human data for Ensembl release 98 convert coordinates on chromo
 10 from 25000 to 30000 to the same region in GRCh37.
 
 Response:
-
 {
     "mappings": [
         {
